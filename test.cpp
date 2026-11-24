@@ -6,7 +6,7 @@ int add(int a, int b) {
 }
 
 int sub(int a, int b) {
-    return 2*a - b;
+    return 2*a;
 }
 
 int main() {
